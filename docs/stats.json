@@ -1,0 +1,5100 @@
+{
+ "updated": "2026-10-21 14:29",
+ "games": 228,
+ "players": [
+  {
+   "player": "Mathias Gervais",
+   "team": "CHEVALIERS HMRPP",
+   "GP": 3,
+   "G": 2,
+   "A": 9,
+   "PIM": 0,
+   "PTS": 11
+  },
+  {
+   "player": "Daniel Vecchio",
+   "team": "COUGARS ST-LEONARD",
+   "GP": 1,
+   "G": 4,
+   "A": 1,
+   "PIM": 0,
+   "PTS": 5
+  },
+  {
+   "player": "Matteo Saltarelli",
+   "team": "CHEVALIERS HMRPP",
+   "GP": 3,
+   "G": 4,
+   "A": 1,
+   "PIM": 2,
+   "PTS": 5
+  },
+  {
+   "player": "Jacob Zilber",
+   "team": "DEVILS M.R.O.",
+   "GP": 3,
+   "G": 3,
+   "A": 2,
+   "PIM": 0,
+   "PTS": 5
+  },
+  {
+   "player": "Carter Beasse",
+   "team": "CIVICS DDO",
+   "GP": 3,
+   "G": 2,
+   "A": 3,
+   "PIM": 4,
+   "PTS": 5
+  },
+  {
+   "player": "Nicholas Tsatas",
+   "team": "DEVILS M.R.O.",
+   "GP": 3,
+   "G": 0,
+   "A": 5,
+   "PIM": 2,
+   "PTS": 5
+  },
+  {
+   "player": "Justin Séguin",
+   "team": "MUSTANGS 1 VAUDREUIL-DORION",
+   "GP": 2,
+   "G": 4,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 4
+  },
+  {
+   "player": "Magellan Hebert-Thibault",
+   "team": "CHEVALIERS HMRPP",
+   "GP": 2,
+   "G": 4,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 4
+  },
+  {
+   "player": "Michael Caluori",
+   "team": "BARONS PIERREFONDS",
+   "GP": 2,
+   "G": 3,
+   "A": 1,
+   "PIM": 2,
+   "PTS": 4
+  },
+  {
+   "player": "Tristan Pelletier",
+   "team": "MUSTANGS 1 VAUDREUIL-DORION",
+   "GP": 2,
+   "G": 3,
+   "A": 1,
+   "PIM": 0,
+   "PTS": 4
+  },
+  {
+   "player": "Samuel Hebrais",
+   "team": "BRAVES DU NORD",
+   "GP": 2,
+   "G": 2,
+   "A": 2,
+   "PIM": 4,
+   "PTS": 4
+  },
+  {
+   "player": "Rafael Cyr",
+   "team": "CHEVALIERS HMRPP",
+   "GP": 3,
+   "G": 2,
+   "A": 2,
+   "PIM": 0,
+   "PTS": 4
+  },
+  {
+   "player": "Francis Daoust",
+   "team": "MUSTANGS 1 VAUDREUIL-DORION",
+   "GP": 2,
+   "G": 1,
+   "A": 3,
+   "PIM": 6,
+   "PTS": 4
+  },
+  {
+   "player": "Cristian Cruz-Huard",
+   "team": "ETOILES EST MONTREAL",
+   "GP": 3,
+   "G": 1,
+   "A": 3,
+   "PIM": 2,
+   "PTS": 4
+  },
+  {
+   "player": "Massimo Buontempo",
+   "team": "COUGARS ST-LEONARD",
+   "GP": 1,
+   "G": 3,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 3
+  },
+  {
+   "player": "Alexander Plagakis",
+   "team": "MUSTANGS 2 VAUDREUIL-DORION",
+   "GP": 3,
+   "G": 3,
+   "A": 0,
+   "PIM": 2,
+   "PTS": 3
+  },
+  {
+   "player": "Benjamin Portelance",
+   "team": "CIVICS DDO",
+   "GP": 3,
+   "G": 3,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 3
+  },
+  {
+   "player": "Emile Lafrance",
+   "team": "ETOILES EST MONTREAL",
+   "GP": 3,
+   "G": 3,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 3
+  },
+  {
+   "player": "Connor Rosa Bernardins",
+   "team": "BARONS PIERREFONDS",
+   "GP": 2,
+   "G": 2,
+   "A": 1,
+   "PIM": 2,
+   "PTS": 3
+  },
+  {
+   "player": "Gabin Cornillaut",
+   "team": "PANTHERS N.D.G.",
+   "GP": 2,
+   "G": 2,
+   "A": 1,
+   "PIM": 0,
+   "PTS": 3
+  },
+  {
+   "player": "Maxim Gauthier",
+   "team": "PANTHERS N.D.G.",
+   "GP": 2,
+   "G": 2,
+   "A": 1,
+   "PIM": 0,
+   "PTS": 3
+  },
+  {
+   "player": "Noah Freitas",
+   "team": "MUSTANGS 2 VAUDREUIL-DORION",
+   "GP": 2,
+   "G": 2,
+   "A": 1,
+   "PIM": 0,
+   "PTS": 3
+  },
+  {
+   "player": "Baptiste Léveillée",
+   "team": "ETOILES EST MONTREAL",
+   "GP": 3,
+   "G": 2,
+   "A": 1,
+   "PIM": 12,
+   "PTS": 3
+  },
+  {
+   "player": "Giuliano Arcoraci",
+   "team": "LIONS LASALLE",
+   "GP": 3,
+   "G": 2,
+   "A": 1,
+   "PIM": 2,
+   "PTS": 3
+  },
+  {
+   "player": "Xavier Magloire",
+   "team": "BRAVES DU NORD",
+   "GP": 3,
+   "G": 2,
+   "A": 1,
+   "PIM": 2,
+   "PTS": 3
+  },
+  {
+   "player": "Adrian Porrello",
+   "team": "COUGARS ST-LEONARD",
+   "GP": 1,
+   "G": 1,
+   "A": 2,
+   "PIM": 2,
+   "PTS": 3
+  },
+  {
+   "player": "Enrico Morante",
+   "team": "ÉLITES EST MONTRÉAL",
+   "GP": 1,
+   "G": 1,
+   "A": 2,
+   "PIM": 0,
+   "PTS": 3
+  },
+  {
+   "player": "Madani Bordez",
+   "team": "PANTHERS N.D.G.",
+   "GP": 2,
+   "G": 1,
+   "A": 2,
+   "PIM": 0,
+   "PTS": 3
+  },
+  {
+   "player": "Olivier Leroux",
+   "team": "ROYALS WEST-ISLAND",
+   "GP": 2,
+   "G": 1,
+   "A": 2,
+   "PIM": 0,
+   "PTS": 3
+  },
+  {
+   "player": "Giacomo Mazzuca",
+   "team": "LIONS LASALLE",
+   "GP": 3,
+   "G": 1,
+   "A": 2,
+   "PIM": 0,
+   "PTS": 3
+  },
+  {
+   "player": "Noah Tyler Florio",
+   "team": "LIONS LASALLE",
+   "GP": 3,
+   "G": 1,
+   "A": 2,
+   "PIM": 6,
+   "PTS": 3
+  },
+  {
+   "player": "Quinn Somers",
+   "team": "LIONS LASALLE",
+   "GP": 3,
+   "G": 1,
+   "A": 2,
+   "PIM": 6,
+   "PTS": 3
+  },
+  {
+   "player": "Samuel Armstrong-Giroux",
+   "team": "PHÉNIX JSH MONTRÉAL-CENTRE",
+   "GP": 3,
+   "G": 1,
+   "A": 2,
+   "PIM": 0,
+   "PTS": 3
+  },
+  {
+   "player": "Anson Lawrence",
+   "team": "PANTHERS N.D.G.",
+   "GP": 2,
+   "G": 0,
+   "A": 3,
+   "PIM": 2,
+   "PTS": 3
+  },
+  {
+   "player": "James Brogan-Provencher",
+   "team": "ROYALS WEST-ISLAND",
+   "GP": 2,
+   "G": 0,
+   "A": 3,
+   "PIM": 2,
+   "PTS": 3
+  },
+  {
+   "player": "John Lopez",
+   "team": "PANTHERS N.D.G.",
+   "GP": 2,
+   "G": 0,
+   "A": 3,
+   "PIM": 0,
+   "PTS": 3
+  },
+  {
+   "player": "Peter Li Pi Shan",
+   "team": "PANTHERS N.D.G.",
+   "GP": 2,
+   "G": 0,
+   "A": 3,
+   "PIM": 0,
+   "PTS": 3
+  },
+  {
+   "player": "Liam Bruelemans",
+   "team": "CHEVALIERS HMRPP",
+   "GP": 3,
+   "G": 0,
+   "A": 3,
+   "PIM": 4,
+   "PTS": 3
+  },
+  {
+   "player": "Austin Jiang",
+   "team": "TIGERS LMHF",
+   "GP": 2,
+   "G": 2,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 2
+  },
+  {
+   "player": "Eliot Denault",
+   "team": "CHEVALIERS HMRPP",
+   "GP": 2,
+   "G": 2,
+   "A": 0,
+   "PIM": 4,
+   "PTS": 2
+  },
+  {
+   "player": "James Foltin",
+   "team": "HAWKS HRS",
+   "GP": 2,
+   "G": 2,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 2
+  },
+  {
+   "player": "Louka Robitaille",
+   "team": "PHÉNIX JSH MONTRÉAL-CENTRE",
+   "GP": 2,
+   "G": 2,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 2
+  },
+  {
+   "player": "Shan Xiang Justin Ni",
+   "team": "PANTHERS N.D.G.",
+   "GP": 2,
+   "G": 2,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 2
+  },
+  {
+   "player": "Yoan-Patrick Dufresne",
+   "team": "PATRIOTES BEAUHARNOIS / STE-MARTINE",
+   "GP": 2,
+   "G": 2,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 2
+  },
+  {
+   "player": "David Ritlop",
+   "team": "DEVILS M.R.O.",
+   "GP": 3,
+   "G": 2,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 2
+  },
+  {
+   "player": "Etienne Lambert",
+   "team": "CHEVALIERS HMRPP",
+   "GP": 3,
+   "G": 2,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 2
+  },
+  {
+   "player": "Jemyson Mondésir-Castor",
+   "team": "ETOILES EST MONTREAL",
+   "GP": 3,
+   "G": 2,
+   "A": 0,
+   "PIM": 6,
+   "PTS": 2
+  },
+  {
+   "player": "Lucas Neill",
+   "team": "LIONS LASALLE",
+   "GP": 3,
+   "G": 2,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 2
+  },
+  {
+   "player": "Arthur Lavigne",
+   "team": "SPARTANS ST-LAURENT",
+   "GP": 4,
+   "G": 2,
+   "A": 0,
+   "PIM": 2,
+   "PTS": 2
+  },
+  {
+   "player": "Marcus Surette",
+   "team": "SPARTANS ST-LAURENT",
+   "GP": 4,
+   "G": 2,
+   "A": 0,
+   "PIM": 6,
+   "PTS": 2
+  },
+  {
+   "player": "Konstantinos Nikolopoulos",
+   "team": "BRAVES DU NORD",
+   "GP": 0,
+   "G": 1,
+   "A": 1,
+   "PIM": 0,
+   "PTS": 2
+  },
+  {
+   "player": "Alexis Gingras",
+   "team": "ÉLITES EST MONTRÉAL",
+   "GP": 1,
+   "G": 1,
+   "A": 1,
+   "PIM": 0,
+   "PTS": 2
+  },
+  {
+   "player": "Benjamin Senay",
+   "team": "CHEVALIERS HMRPP",
+   "GP": 1,
+   "G": 1,
+   "A": 1,
+   "PIM": 0,
+   "PTS": 2
+  },
+  {
+   "player": "Gianluca Lombardi",
+   "team": "COUGARS ST-LEONARD",
+   "GP": 1,
+   "G": 1,
+   "A": 1,
+   "PIM": 0,
+   "PTS": 2
+  },
+  {
+   "player": "Antoine Lellouche",
+   "team": "DEVILS M.R.O.",
+   "GP": 2,
+   "G": 1,
+   "A": 1,
+   "PIM": 0,
+   "PTS": 2
+  },
+  {
+   "player": "Charles Fortier",
+   "team": "DEVILS M.R.O.",
+   "GP": 2,
+   "G": 1,
+   "A": 1,
+   "PIM": 0,
+   "PTS": 2
+  },
+  {
+   "player": "Clement Payette",
+   "team": "BRAVES DU NORD",
+   "GP": 2,
+   "G": 1,
+   "A": 1,
+   "PIM": 0,
+   "PTS": 2
+  },
+  {
+   "player": "Daniel Silverman",
+   "team": "TIGERS LMHF",
+   "GP": 2,
+   "G": 1,
+   "A": 1,
+   "PIM": 0,
+   "PTS": 2
+  },
+  {
+   "player": "Hussain Manzoor",
+   "team": "PHÉNIX JSH MONTRÉAL-CENTRE",
+   "GP": 2,
+   "G": 1,
+   "A": 1,
+   "PIM": 0,
+   "PTS": 2
+  },
+  {
+   "player": "Jeremy Leclerc Ko",
+   "team": "PANTHERS N.D.G.",
+   "GP": 2,
+   "G": 1,
+   "A": 1,
+   "PIM": 0,
+   "PTS": 2
+  },
+  {
+   "player": "Jeremy Poirier",
+   "team": "PANTHERS N.D.G.",
+   "GP": 2,
+   "G": 1,
+   "A": 1,
+   "PIM": 0,
+   "PTS": 2
+  },
+  {
+   "player": "Jimmer Jr. Madrona",
+   "team": "BARONS PIERREFONDS",
+   "GP": 2,
+   "G": 1,
+   "A": 1,
+   "PIM": 2,
+   "PTS": 2
+  },
+  {
+   "player": "Jonah Wiseman",
+   "team": "TIGERS LMHF",
+   "GP": 2,
+   "G": 1,
+   "A": 1,
+   "PIM": 0,
+   "PTS": 2
+  },
+  {
+   "player": "Loîc Parent",
+   "team": "BRAVES VALLEYFIELD",
+   "GP": 2,
+   "G": 1,
+   "A": 1,
+   "PIM": 0,
+   "PTS": 2
+  },
+  {
+   "player": "Luka Ghantous",
+   "team": "MUSTANGS 1 VAUDREUIL-DORION",
+   "GP": 2,
+   "G": 1,
+   "A": 1,
+   "PIM": 4,
+   "PTS": 2
+  },
+  {
+   "player": "Mickael Roy",
+   "team": "PATRIOTES BEAUHARNOIS / STE-MARTINE",
+   "GP": 2,
+   "G": 1,
+   "A": 1,
+   "PIM": 10,
+   "PTS": 2
+  },
+  {
+   "player": "Mikael Joly",
+   "team": "BARONS PIERREFONDS",
+   "GP": 2,
+   "G": 1,
+   "A": 1,
+   "PIM": 6,
+   "PTS": 2
+  },
+  {
+   "player": "Nathan Lapierre",
+   "team": "PATRIOTES BEAUHARNOIS / STE-MARTINE",
+   "GP": 2,
+   "G": 1,
+   "A": 1,
+   "PIM": 8,
+   "PTS": 2
+  },
+  {
+   "player": "Nicholas De Filippo",
+   "team": "HAWKS HRS",
+   "GP": 2,
+   "G": 1,
+   "A": 1,
+   "PIM": 0,
+   "PTS": 2
+  },
+  {
+   "player": "Samuel Lalonde",
+   "team": "BRAVES VALLEYFIELD",
+   "GP": 2,
+   "G": 1,
+   "A": 1,
+   "PIM": 4,
+   "PTS": 2
+  },
+  {
+   "player": "Zachary Jackson",
+   "team": "PATRIOTES BEAUHARNOIS / STE-MARTINE",
+   "GP": 2,
+   "G": 1,
+   "A": 1,
+   "PIM": 0,
+   "PTS": 2
+  },
+  {
+   "player": "Andrej Glisovic",
+   "team": "BRAVES DU NORD",
+   "GP": 3,
+   "G": 1,
+   "A": 1,
+   "PIM": 2,
+   "PTS": 2
+  },
+  {
+   "player": "Christopher Rossy",
+   "team": "DEVILS M.R.O.",
+   "GP": 3,
+   "G": 1,
+   "A": 1,
+   "PIM": 2,
+   "PTS": 2
+  },
+  {
+   "player": "Damiano Di Perna",
+   "team": "LIONS LASALLE",
+   "GP": 3,
+   "G": 1,
+   "A": 1,
+   "PIM": 4,
+   "PTS": 2
+  },
+  {
+   "player": "Edison Tran",
+   "team": "CHEVALIERS HMRPP",
+   "GP": 3,
+   "G": 1,
+   "A": 1,
+   "PIM": 0,
+   "PTS": 2
+  },
+  {
+   "player": "Gaspard Provost",
+   "team": "PHÉNIX JSH MONTRÉAL-CENTRE",
+   "GP": 3,
+   "G": 1,
+   "A": 1,
+   "PIM": 4,
+   "PTS": 2
+  },
+  {
+   "player": "Malik Nault",
+   "team": "CHEVALIERS HMRPP",
+   "GP": 3,
+   "G": 1,
+   "A": 1,
+   "PIM": 0,
+   "PTS": 2
+  },
+  {
+   "player": "Mathis Lebeau",
+   "team": "MUSTANGS 2 VAUDREUIL-DORION",
+   "GP": 3,
+   "G": 1,
+   "A": 1,
+   "PIM": 6,
+   "PTS": 2
+  },
+  {
+   "player": "Maxime Champagne",
+   "team": "MUSTANGS 2 VAUDREUIL-DORION",
+   "GP": 3,
+   "G": 1,
+   "A": 1,
+   "PIM": 2,
+   "PTS": 2
+  },
+  {
+   "player": "Raphael Gravel",
+   "team": "LIONS LASALLE",
+   "GP": 3,
+   "G": 1,
+   "A": 1,
+   "PIM": 0,
+   "PTS": 2
+  },
+  {
+   "player": "Tegan Foster",
+   "team": "CHEVALIERS HMRPP",
+   "GP": 3,
+   "G": 1,
+   "A": 1,
+   "PIM": 2,
+   "PTS": 2
+  },
+  {
+   "player": "Thierry Frechette",
+   "team": "ETOILES EST MONTREAL",
+   "GP": 3,
+   "G": 1,
+   "A": 1,
+   "PIM": 0,
+   "PTS": 2
+  },
+  {
+   "player": "Antonin Crevier",
+   "team": "SPARTANS ST-LAURENT",
+   "GP": 4,
+   "G": 1,
+   "A": 1,
+   "PIM": 2,
+   "PTS": 2
+  },
+  {
+   "player": "Luca Melo",
+   "team": "COUGARS ST-LEONARD",
+   "GP": 1,
+   "G": 0,
+   "A": 2,
+   "PIM": 0,
+   "PTS": 2
+  },
+  {
+   "player": "Vincent Mastroberardino",
+   "team": "COUGARS ST-LEONARD",
+   "GP": 1,
+   "G": 0,
+   "A": 2,
+   "PIM": 2,
+   "PTS": 2
+  },
+  {
+   "player": "Alexis Martineau",
+   "team": "BARONS PIERREFONDS",
+   "GP": 2,
+   "G": 0,
+   "A": 2,
+   "PIM": 4,
+   "PTS": 2
+  },
+  {
+   "player": "Gabriel Boyer",
+   "team": "ROYALS WEST-ISLAND",
+   "GP": 2,
+   "G": 0,
+   "A": 2,
+   "PIM": 0,
+   "PTS": 2
+  },
+  {
+   "player": "Kevin Auerbach",
+   "team": "BARONS PIERREFONDS",
+   "GP": 2,
+   "G": 0,
+   "A": 2,
+   "PIM": 0,
+   "PTS": 2
+  },
+  {
+   "player": "Kyle Taylor",
+   "team": "PANTHERS N.D.G.",
+   "GP": 2,
+   "G": 0,
+   "A": 2,
+   "PIM": 0,
+   "PTS": 2
+  },
+  {
+   "player": "Mathias Habre",
+   "team": "SPARTANS ST-LAURENT",
+   "GP": 2,
+   "G": 0,
+   "A": 2,
+   "PIM": 2,
+   "PTS": 2
+  },
+  {
+   "player": "Olivier Ouellet",
+   "team": "ETOILES EST MONTREAL",
+   "GP": 2,
+   "G": 0,
+   "A": 2,
+   "PIM": 4,
+   "PTS": 2
+  },
+  {
+   "player": "Ryan Mignacco",
+   "team": "ROYALS WEST-ISLAND",
+   "GP": 2,
+   "G": 0,
+   "A": 2,
+   "PIM": 0,
+   "PTS": 2
+  },
+  {
+   "player": "Zachary Rhéaume",
+   "team": "BRAVES DU NORD",
+   "GP": 2,
+   "G": 0,
+   "A": 2,
+   "PIM": 2,
+   "PTS": 2
+  },
+  {
+   "player": "Marco Falbo",
+   "team": "LIONS LASALLE",
+   "GP": 3,
+   "G": 0,
+   "A": 2,
+   "PIM": 0,
+   "PTS": 2
+  },
+  {
+   "player": "Raphael Gouin",
+   "team": "ETOILES EST MONTREAL",
+   "GP": 3,
+   "G": 0,
+   "A": 2,
+   "PIM": 0,
+   "PTS": 2
+  },
+  {
+   "player": "Victor Bouliane",
+   "team": "MUSTANGS 2 VAUDREUIL-DORION",
+   "GP": 3,
+   "G": 0,
+   "A": 2,
+   "PIM": 0,
+   "PTS": 2
+  },
+  {
+   "player": "Xavier Choueiri",
+   "team": "LIONS LASALLE",
+   "GP": 3,
+   "G": 0,
+   "A": 2,
+   "PIM": 0,
+   "PTS": 2
+  },
+  {
+   "player": "Edouard Payette",
+   "team": "BRAVES DU NORD",
+   "GP": 1,
+   "G": 1,
+   "A": 0,
+   "PIM": 2,
+   "PTS": 1
+  },
+  {
+   "player": "Lorenzo Falso",
+   "team": "ÉLITES EST MONTRÉAL",
+   "GP": 1,
+   "G": 1,
+   "A": 0,
+   "PIM": 2,
+   "PTS": 1
+  },
+  {
+   "player": "Nicola Ragusa",
+   "team": "ÉLITES EST MONTRÉAL",
+   "GP": 1,
+   "G": 1,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 1
+  },
+  {
+   "player": "Samuel Moisan",
+   "team": "ÉLITES EST MONTRÉAL",
+   "GP": 1,
+   "G": 1,
+   "A": 0,
+   "PIM": 2,
+   "PTS": 1
+  },
+  {
+   "player": "Steven Farruggia",
+   "team": "ÉLITES EST MONTRÉAL",
+   "GP": 1,
+   "G": 1,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 1
+  },
+  {
+   "player": "Adrien Morisset",
+   "team": "DEVILS M.R.O.",
+   "GP": 2,
+   "G": 1,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 1
+  },
+  {
+   "player": "Antony Oustimenko",
+   "team": "LIONS LASALLE",
+   "GP": 2,
+   "G": 1,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 1
+  },
+  {
+   "player": "Branco Juverdianu",
+   "team": "ROYALS WEST-ISLAND",
+   "GP": 2,
+   "G": 1,
+   "A": 0,
+   "PIM": 2,
+   "PTS": 1
+  },
+  {
+   "player": "Ian Solomon-Baird",
+   "team": "ROYALS WEST-ISLAND",
+   "GP": 2,
+   "G": 1,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 1
+  },
+  {
+   "player": "Jeremy Benoit",
+   "team": "ROYALS WEST-ISLAND",
+   "GP": 2,
+   "G": 1,
+   "A": 0,
+   "PIM": 2,
+   "PTS": 1
+  },
+  {
+   "player": "Louis David Viau",
+   "team": "PATRIOTES BEAUHARNOIS / STE-MARTINE",
+   "GP": 2,
+   "G": 1,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 1
+  },
+  {
+   "player": "Luca Agostino",
+   "team": "MUSTANGS 1 VAUDREUIL-DORION",
+   "GP": 2,
+   "G": 1,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 1
+  },
+  {
+   "player": "Luka D'Aoust",
+   "team": "TIGERS LMHF",
+   "GP": 2,
+   "G": 1,
+   "A": 0,
+   "PIM": 4,
+   "PTS": 1
+  },
+  {
+   "player": "Mateo Duque",
+   "team": "BRAVES DU NORD",
+   "GP": 2,
+   "G": 1,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 1
+  },
+  {
+   "player": "Mathys Richard",
+   "team": "BRAVES VALLEYFIELD",
+   "GP": 2,
+   "G": 1,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 1
+  },
+  {
+   "player": "Matthew Filato",
+   "team": "TIGERS LMHF",
+   "GP": 2,
+   "G": 1,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 1
+  },
+  {
+   "player": "Matthew Moscato",
+   "team": "TIGERS LMHF",
+   "GP": 2,
+   "G": 1,
+   "A": 0,
+   "PIM": 2,
+   "PTS": 1
+  },
+  {
+   "player": "Matthew Vallee",
+   "team": "ROYALS WEST-ISLAND",
+   "GP": 2,
+   "G": 1,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 1
+  },
+  {
+   "player": "Michael Coppola",
+   "team": "ROYALS WEST-ISLAND",
+   "GP": 2,
+   "G": 1,
+   "A": 0,
+   "PIM": 2,
+   "PTS": 1
+  },
+  {
+   "player": "Nicolas Issa",
+   "team": "BARONS PIERREFONDS",
+   "GP": 2,
+   "G": 1,
+   "A": 0,
+   "PIM": 2,
+   "PTS": 1
+  },
+  {
+   "player": "Ryan Allen",
+   "team": "HAWKS HRS",
+   "GP": 2,
+   "G": 1,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 1
+  },
+  {
+   "player": "Zachary Lemieux",
+   "team": "BRAVES VALLEYFIELD",
+   "GP": 2,
+   "G": 1,
+   "A": 0,
+   "PIM": 2,
+   "PTS": 1
+  },
+  {
+   "player": "Anastasios Nikolopoulos",
+   "team": "BRAVES DU NORD",
+   "GP": 3,
+   "G": 1,
+   "A": 0,
+   "PIM": 4,
+   "PTS": 1
+  },
+  {
+   "player": "Daniel Giguère",
+   "team": "SPARTANS ST-LAURENT",
+   "GP": 3,
+   "G": 1,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 1
+  },
+  {
+   "player": "Domenico Struffolino",
+   "team": "LIONS LASALLE",
+   "GP": 3,
+   "G": 1,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 1
+  },
+  {
+   "player": "Jayden Landreville",
+   "team": "MUSTANGS 2 VAUDREUIL-DORION",
+   "GP": 3,
+   "G": 1,
+   "A": 0,
+   "PIM": 4,
+   "PTS": 1
+  },
+  {
+   "player": "Jonathan Tomarelli",
+   "team": "LIONS LASALLE",
+   "GP": 3,
+   "G": 1,
+   "A": 0,
+   "PIM": 2,
+   "PTS": 1
+  },
+  {
+   "player": "Logan Veltman",
+   "team": "PHÉNIX JSH MONTRÉAL-CENTRE",
+   "GP": 3,
+   "G": 1,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 1
+  },
+  {
+   "player": "Noah Benzekri",
+   "team": "CIVICS DDO",
+   "GP": 3,
+   "G": 1,
+   "A": 0,
+   "PIM": 8,
+   "PTS": 1
+  },
+  {
+   "player": "William Ratelle",
+   "team": "BRAVES DU NORD",
+   "GP": 3,
+   "G": 1,
+   "A": 0,
+   "PIM": 2,
+   "PTS": 1
+  },
+  {
+   "player": "Zachary Levy",
+   "team": "CIVICS DDO",
+   "GP": 3,
+   "G": 1,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 1
+  },
+  {
+   "player": "Jaryd Lariviere",
+   "team": "SPARTANS ST-LAURENT",
+   "GP": 4,
+   "G": 1,
+   "A": 0,
+   "PIM": 4,
+   "PTS": 1
+  },
+  {
+   "player": "Ryan Werbitt",
+   "team": "SPARTANS ST-LAURENT",
+   "GP": 4,
+   "G": 1,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 1
+  },
+  {
+   "player": "Anthony Miscione",
+   "team": "COUGARS ST-LEONARD",
+   "GP": 1,
+   "G": 0,
+   "A": 1,
+   "PIM": 0,
+   "PTS": 1
+  },
+  {
+   "player": "Ariel Cohen",
+   "team": "CIVICS DDO",
+   "GP": 1,
+   "G": 0,
+   "A": 1,
+   "PIM": 2,
+   "PTS": 1
+  },
+  {
+   "player": "Dante Tempone",
+   "team": "ÉLITES EST MONTRÉAL",
+   "GP": 1,
+   "G": 0,
+   "A": 1,
+   "PIM": 2,
+   "PTS": 1
+  },
+  {
+   "player": "Emile Desaulniers",
+   "team": "PATRIOTES BEAUHARNOIS / STE-MARTINE",
+   "GP": 1,
+   "G": 0,
+   "A": 1,
+   "PIM": 0,
+   "PTS": 1
+  },
+  {
+   "player": "Emile Piché",
+   "team": "MUSTANGS 1 VAUDREUIL-DORION",
+   "GP": 1,
+   "G": 0,
+   "A": 1,
+   "PIM": 0,
+   "PTS": 1
+  },
+  {
+   "player": "Jesse Mendelson",
+   "team": "CIVICS DDO",
+   "GP": 1,
+   "G": 0,
+   "A": 1,
+   "PIM": 4,
+   "PTS": 1
+  },
+  {
+   "player": "Nathaniel Edery",
+   "team": "CIVICS DDO",
+   "GP": 1,
+   "G": 0,
+   "A": 1,
+   "PIM": 0,
+   "PTS": 1
+  },
+  {
+   "player": "Simon Quesnel",
+   "team": "MUSTANGS 1 VAUDREUIL-DORION",
+   "GP": 1,
+   "G": 0,
+   "A": 1,
+   "PIM": 0,
+   "PTS": 1
+  },
+  {
+   "player": "Émile Labonté",
+   "team": "DEVILS M.R.O.",
+   "GP": 1,
+   "G": 0,
+   "A": 1,
+   "PIM": 0,
+   "PTS": 1
+  },
+  {
+   "player": "Alexis Henry",
+   "team": "HAWKS HRS",
+   "GP": 2,
+   "G": 0,
+   "A": 1,
+   "PIM": 0,
+   "PTS": 1
+  },
+  {
+   "player": "Benjamin Duquette",
+   "team": "CIVICS DDO",
+   "GP": 2,
+   "G": 0,
+   "A": 1,
+   "PIM": 0,
+   "PTS": 1
+  },
+  {
+   "player": "Bradley Mills",
+   "team": "HAWKS HRS",
+   "GP": 2,
+   "G": 0,
+   "A": 1,
+   "PIM": 2,
+   "PTS": 1
+  },
+  {
+   "player": "Cameron David",
+   "team": "BARONS PIERREFONDS",
+   "GP": 2,
+   "G": 0,
+   "A": 1,
+   "PIM": 2,
+   "PTS": 1
+  },
+  {
+   "player": "Clement Gosselin",
+   "team": "MUSTANGS 1 VAUDREUIL-DORION",
+   "GP": 2,
+   "G": 0,
+   "A": 1,
+   "PIM": 2,
+   "PTS": 1
+  },
+  {
+   "player": "Déreck Mcsween",
+   "team": "BRAVES VALLEYFIELD",
+   "GP": 2,
+   "G": 0,
+   "A": 1,
+   "PIM": 0,
+   "PTS": 1
+  },
+  {
+   "player": "Emmerik Chaikowsky",
+   "team": "MUSTANGS 1 VAUDREUIL-DORION",
+   "GP": 2,
+   "G": 0,
+   "A": 1,
+   "PIM": 0,
+   "PTS": 1
+  },
+  {
+   "player": "George Gogos",
+   "team": "CIVICS DDO",
+   "GP": 2,
+   "G": 0,
+   "A": 1,
+   "PIM": 0,
+   "PTS": 1
+  },
+  {
+   "player": "Jacob Silverman",
+   "team": "TIGERS LMHF",
+   "GP": 2,
+   "G": 0,
+   "A": 1,
+   "PIM": 2,
+   "PTS": 1
+  },
+  {
+   "player": "Jaden Dizazzo",
+   "team": "MUSTANGS 1 VAUDREUIL-DORION",
+   "GP": 2,
+   "G": 0,
+   "A": 1,
+   "PIM": 4,
+   "PTS": 1
+  },
+  {
+   "player": "Jayden Hamm",
+   "team": "TIGERS LMHF",
+   "GP": 2,
+   "G": 0,
+   "A": 1,
+   "PIM": 2,
+   "PTS": 1
+  },
+  {
+   "player": "Jeremy Prevost",
+   "team": "PATRIOTES BEAUHARNOIS / STE-MARTINE",
+   "GP": 2,
+   "G": 0,
+   "A": 1,
+   "PIM": 0,
+   "PTS": 1
+  },
+  {
+   "player": "Justin Lachance",
+   "team": "PATRIOTES BEAUHARNOIS / STE-MARTINE",
+   "GP": 2,
+   "G": 0,
+   "A": 1,
+   "PIM": 0,
+   "PTS": 1
+  },
+  {
+   "player": "Loic Bernard",
+   "team": "BARONS PIERREFONDS",
+   "GP": 2,
+   "G": 0,
+   "A": 1,
+   "PIM": 6,
+   "PTS": 1
+  },
+  {
+   "player": "Loïc Sylvestre",
+   "team": "PATRIOTES BEAUHARNOIS / STE-MARTINE",
+   "GP": 2,
+   "G": 0,
+   "A": 1,
+   "PIM": 0,
+   "PTS": 1
+  },
+  {
+   "player": "Marc-Antoine Isabelle",
+   "team": "PATRIOTES BEAUHARNOIS / STE-MARTINE",
+   "GP": 2,
+   "G": 0,
+   "A": 1,
+   "PIM": 2,
+   "PTS": 1
+  },
+  {
+   "player": "Massimo Morganti",
+   "team": "CHEVALIERS HMRPP",
+   "GP": 2,
+   "G": 0,
+   "A": 1,
+   "PIM": 2,
+   "PTS": 1
+  },
+  {
+   "player": "Mateo Sarasua",
+   "team": "MUSTANGS 2 VAUDREUIL-DORION",
+   "GP": 2,
+   "G": 0,
+   "A": 1,
+   "PIM": 8,
+   "PTS": 1
+  },
+  {
+   "player": "Matt Weitzman",
+   "team": "CIVICS DDO",
+   "GP": 2,
+   "G": 0,
+   "A": 1,
+   "PIM": 6,
+   "PTS": 1
+  },
+  {
+   "player": "Matthew Copeland",
+   "team": "BARONS PIERREFONDS",
+   "GP": 2,
+   "G": 0,
+   "A": 1,
+   "PIM": 0,
+   "PTS": 1
+  },
+  {
+   "player": "Matthew Rousseau",
+   "team": "BARONS PIERREFONDS",
+   "GP": 2,
+   "G": 0,
+   "A": 1,
+   "PIM": 0,
+   "PTS": 1
+  },
+  {
+   "player": "Miguel Trani",
+   "team": "PANTHERS N.D.G.",
+   "GP": 2,
+   "G": 0,
+   "A": 1,
+   "PIM": 2,
+   "PTS": 1
+  },
+  {
+   "player": "Nathan Hart",
+   "team": "BRAVES VALLEYFIELD",
+   "GP": 2,
+   "G": 0,
+   "A": 1,
+   "PIM": 2,
+   "PTS": 1
+  },
+  {
+   "player": "Nathan Viau",
+   "team": "MUSTANGS 1 VAUDREUIL-DORION",
+   "GP": 2,
+   "G": 0,
+   "A": 1,
+   "PIM": 0,
+   "PTS": 1
+  },
+  {
+   "player": "Noah Bégin",
+   "team": "MUSTANGS 1 VAUDREUIL-DORION",
+   "GP": 2,
+   "G": 0,
+   "A": 1,
+   "PIM": 0,
+   "PTS": 1
+  },
+  {
+   "player": "Noam Levy",
+   "team": "CIVICS DDO",
+   "GP": 2,
+   "G": 0,
+   "A": 1,
+   "PIM": 2,
+   "PTS": 1
+  },
+  {
+   "player": "Pavi Ikwa Mbutiwi",
+   "team": "SPARTANS ST-LAURENT",
+   "GP": 2,
+   "G": 0,
+   "A": 1,
+   "PIM": 2,
+   "PTS": 1
+  },
+  {
+   "player": "Raphael Matte",
+   "team": "PATRIOTES BEAUHARNOIS / STE-MARTINE",
+   "GP": 2,
+   "G": 0,
+   "A": 1,
+   "PIM": 8,
+   "PTS": 1
+  },
+  {
+   "player": "Samuel Lavigne",
+   "team": "HAWKS HRS",
+   "GP": 2,
+   "G": 0,
+   "A": 1,
+   "PIM": 8,
+   "PTS": 1
+  },
+  {
+   "player": "Stefano Lipari",
+   "team": "LIONS LASALLE",
+   "GP": 2,
+   "G": 0,
+   "A": 1,
+   "PIM": 0,
+   "PTS": 1
+  },
+  {
+   "player": "Victor Paun",
+   "team": "TIGERS LMHF",
+   "GP": 2,
+   "G": 0,
+   "A": 1,
+   "PIM": 0,
+   "PTS": 1
+  },
+  {
+   "player": "Vincent Carpentier",
+   "team": "BRAVES VALLEYFIELD",
+   "GP": 2,
+   "G": 0,
+   "A": 1,
+   "PIM": 4,
+   "PTS": 1
+  },
+  {
+   "player": "Xavier Fontaine-Lalande",
+   "team": "MUSTANGS 1 VAUDREUIL-DORION",
+   "GP": 2,
+   "G": 0,
+   "A": 1,
+   "PIM": 0,
+   "PTS": 1
+  },
+  {
+   "player": "Alexandre Forget-Therien",
+   "team": "BRAVES DU NORD",
+   "GP": 3,
+   "G": 0,
+   "A": 1,
+   "PIM": 0,
+   "PTS": 1
+  },
+  {
+   "player": "Brett Goldenberg",
+   "team": "CIVICS DDO",
+   "GP": 3,
+   "G": 0,
+   "A": 1,
+   "PIM": 0,
+   "PTS": 1
+  },
+  {
+   "player": "Denis Botnaru",
+   "team": "ETOILES EST MONTREAL",
+   "GP": 3,
+   "G": 0,
+   "A": 1,
+   "PIM": 0,
+   "PTS": 1
+  },
+  {
+   "player": "Dylan Laframboise",
+   "team": "ETOILES EST MONTREAL",
+   "GP": 3,
+   "G": 0,
+   "A": 1,
+   "PIM": 0,
+   "PTS": 1
+  },
+  {
+   "player": "Guillaume Vézina",
+   "team": "ETOILES EST MONTREAL",
+   "GP": 3,
+   "G": 0,
+   "A": 1,
+   "PIM": 2,
+   "PTS": 1
+  },
+  {
+   "player": "Henri Courtois",
+   "team": "DEVILS M.R.O.",
+   "GP": 3,
+   "G": 0,
+   "A": 1,
+   "PIM": 0,
+   "PTS": 1
+  },
+  {
+   "player": "Louis-Martin Archambault",
+   "team": "BRAVES DU NORD",
+   "GP": 3,
+   "G": 0,
+   "A": 1,
+   "PIM": 4,
+   "PTS": 1
+  },
+  {
+   "player": "Mylan Morin",
+   "team": "MUSTANGS 2 VAUDREUIL-DORION",
+   "GP": 3,
+   "G": 0,
+   "A": 1,
+   "PIM": 8,
+   "PTS": 1
+  },
+  {
+   "player": "Santino Sciotto",
+   "team": "LIONS LASALLE",
+   "GP": 3,
+   "G": 0,
+   "A": 1,
+   "PIM": 0,
+   "PTS": 1
+  },
+  {
+   "player": "Sebastian Filipescu",
+   "team": "SPARTANS ST-LAURENT",
+   "GP": 3,
+   "G": 0,
+   "A": 1,
+   "PIM": 0,
+   "PTS": 1
+  },
+  {
+   "player": "Simon Lambert",
+   "team": "CHEVALIERS HMRPP",
+   "GP": 3,
+   "G": 0,
+   "A": 1,
+   "PIM": 10,
+   "PTS": 1
+  },
+  {
+   "player": "Tristan Bradford",
+   "team": "MUSTANGS 2 VAUDREUIL-DORION",
+   "GP": 3,
+   "G": 0,
+   "A": 1,
+   "PIM": 0,
+   "PTS": 1
+  },
+  {
+   "player": "Zacharie Bouchard",
+   "team": "MUSTANGS 2 VAUDREUIL-DORION",
+   "GP": 3,
+   "G": 0,
+   "A": 1,
+   "PIM": 0,
+   "PTS": 1
+  },
+  {
+   "player": "Zachary Brochier",
+   "team": "PHÉNIX JSH MONTRÉAL-CENTRE",
+   "GP": 3,
+   "G": 0,
+   "A": 1,
+   "PIM": 2,
+   "PTS": 1
+  },
+  {
+   "player": "Demetrius-James Morritt",
+   "team": "SPARTANS ST-LAURENT",
+   "GP": 4,
+   "G": 0,
+   "A": 1,
+   "PIM": 4,
+   "PTS": 1
+  },
+  {
+   "player": "Justin Dorais",
+   "team": "SPARTANS ST-LAURENT",
+   "GP": 4,
+   "G": 0,
+   "A": 1,
+   "PIM": 0,
+   "PTS": 1
+  },
+  {
+   "player": "Simon Biard",
+   "team": "SPARTANS ST-LAURENT",
+   "GP": 4,
+   "G": 0,
+   "A": 1,
+   "PIM": 2,
+   "PTS": 1
+  },
+  {
+   "player": "Ashton Conklin",
+   "team": "HAWKS HRS",
+   "GP": 0,
+   "G": 0,
+   "A": 0,
+   "PIM": 2,
+   "PTS": 0
+  },
+  {
+   "player": "Jordan Sarantinos",
+   "team": "SPARTANS ST-LAURENT",
+   "GP": 0,
+   "G": 0,
+   "A": 0,
+   "PIM": 2,
+   "PTS": 0
+  },
+  {
+   "player": "Liam Dube",
+   "team": "TIGERS LMHF",
+   "GP": 0,
+   "G": 0,
+   "A": 0,
+   "PIM": 2,
+   "PTS": 0
+  },
+  {
+   "player": "Malik Issoulaimani",
+   "team": "BRAVES VALLEYFIELD",
+   "GP": 0,
+   "G": 0,
+   "A": 0,
+   "PIM": 2,
+   "PTS": 0
+  },
+  {
+   "player": "Adriano Bocchicchio",
+   "team": "ÉLITES EST MONTRÉAL",
+   "GP": 1,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Aidan Frey",
+   "team": "ROYALS WEST-ISLAND",
+   "GP": 1,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Alexandre Adam",
+   "team": "PHÉNIX JSH MONTRÉAL-CENTRE",
+   "GP": 1,
+   "G": 0,
+   "A": 0,
+   "PIM": 2,
+   "PTS": 0
+  },
+  {
+   "player": "Alexis D'Amour",
+   "team": "BRAVES VALLEYFIELD",
+   "GP": 1,
+   "G": 0,
+   "A": 0,
+   "PIM": 2,
+   "PTS": 0
+  },
+  {
+   "player": "Caleb Caron",
+   "team": "TIGERS LMHF",
+   "GP": 1,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Carl-Anthony Richer",
+   "team": "PATRIOTES BEAUHARNOIS / STE-MARTINE",
+   "GP": 1,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Davide Sciannamblo",
+   "team": "ÉLITES EST MONTRÉAL",
+   "GP": 1,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Dongu Shin",
+   "team": "DEVILS M.R.O.",
+   "GP": 1,
+   "G": 0,
+   "A": 0,
+   "PIM": 2,
+   "PTS": 0
+  },
+  {
+   "player": "Ethan Perron",
+   "team": "MUSTANGS 1 VAUDREUIL-DORION",
+   "GP": 1,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Filippo Iacono",
+   "team": "COUGARS ST-LEONARD",
+   "GP": 1,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Giuseppe Paduano",
+   "team": "ÉLITES EST MONTRÉAL",
+   "GP": 1,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Grégory Leduc",
+   "team": "BRAVES VALLEYFIELD",
+   "GP": 1,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Hugo Champagne",
+   "team": "SPARTANS ST-LAURENT",
+   "GP": 1,
+   "G": 0,
+   "A": 0,
+   "PIM": 2,
+   "PTS": 0
+  },
+  {
+   "player": "Jonathan Cucci",
+   "team": "BRAVES DU NORD",
+   "GP": 1,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Julian Porrello",
+   "team": "COUGARS ST-LEONARD",
+   "GP": 1,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Justin-Félix Leduc",
+   "team": "DEVILS M.R.O.",
+   "GP": 1,
+   "G": 0,
+   "A": 0,
+   "PIM": 2,
+   "PTS": 0
+  },
+  {
+   "player": "Liam Baigun",
+   "team": "CIVICS DDO",
+   "GP": 1,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Liam-Thomas Paquette",
+   "team": "PHÉNIX JSH MONTRÉAL-CENTRE",
+   "GP": 1,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Louis Talarico-Leblanc",
+   "team": "CHEVALIERS HMRPP",
+   "GP": 1,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Léo-Paul Chapdelaine",
+   "team": "CHEVALIERS HMRPP",
+   "GP": 1,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Massimo Di Santo",
+   "team": "LIONS LASALLE",
+   "GP": 1,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Maxim Meunier",
+   "team": "MUSTANGS 1 VAUDREUIL-DORION",
+   "GP": 1,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Mikael Goulet",
+   "team": "MUSTANGS 2 VAUDREUIL-DORION",
+   "GP": 1,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Nathan Salvo",
+   "team": "COUGARS ST-LEONARD",
+   "GP": 1,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Nicola Girardi",
+   "team": "COUGARS ST-LEONARD",
+   "GP": 1,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Nils D'Hondt",
+   "team": "DEVILS M.R.O.",
+   "GP": 1,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Owen Bruemmer",
+   "team": "PANTHERS N.D.G.",
+   "GP": 1,
+   "G": 0,
+   "A": 0,
+   "PIM": 2,
+   "PTS": 0
+  },
+  {
+   "player": "Pierre-Alexis Pouliot",
+   "team": "PATRIOTES BEAUHARNOIS / STE-MARTINE",
+   "GP": 1,
+   "G": 0,
+   "A": 0,
+   "PIM": 4,
+   "PTS": 0
+  },
+  {
+   "player": "Rocco Petreccia",
+   "team": "COUGARS ST-LEONARD",
+   "GP": 1,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Samuel Di Vincenzo",
+   "team": "MUSTANGS 1 VAUDREUIL-DORION",
+   "GP": 1,
+   "G": 0,
+   "A": 0,
+   "PIM": 2,
+   "PTS": 0
+  },
+  {
+   "player": "Tristan Jasmin",
+   "team": "HAWKS HRS",
+   "GP": 1,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Victor Poisson",
+   "team": "DEVILS M.R.O.",
+   "GP": 1,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Vincenzo Miscione",
+   "team": "COUGARS ST-LEONARD",
+   "GP": 1,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Yuma Fueter-Lamothe",
+   "team": "PHÉNIX JSH MONTRÉAL-CENTRE",
+   "GP": 1,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Aguibou Diallo",
+   "team": "PHÉNIX JSH MONTRÉAL-CENTRE",
+   "GP": 2,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Alessandro Fragnito",
+   "team": "BARONS PIERREFONDS",
+   "GP": 2,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Alexandre Ohrvall-Beaudet",
+   "team": "DEVILS M.R.O.",
+   "GP": 2,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Andres Garcia",
+   "team": "PANTHERS N.D.G.",
+   "GP": 2,
+   "G": 0,
+   "A": 0,
+   "PIM": 2,
+   "PTS": 0
+  },
+  {
+   "player": "Andrew Feng",
+   "team": "BARONS PIERREFONDS",
+   "GP": 2,
+   "G": 0,
+   "A": 0,
+   "PIM": 2,
+   "PTS": 0
+  },
+  {
+   "player": "Charles Larochelle",
+   "team": "DEVILS M.R.O.",
+   "GP": 2,
+   "G": 0,
+   "A": 0,
+   "PIM": 2,
+   "PTS": 0
+  },
+  {
+   "player": "Christopher Blom",
+   "team": "BARONS PIERREFONDS",
+   "GP": 2,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Daniel Orlov",
+   "team": "PANTHERS N.D.G.",
+   "GP": 2,
+   "G": 0,
+   "A": 0,
+   "PIM": 2,
+   "PTS": 0
+  },
+  {
+   "player": "Davin Behamdouni",
+   "team": "TIGERS LMHF",
+   "GP": 2,
+   "G": 0,
+   "A": 0,
+   "PIM": 6,
+   "PTS": 0
+  },
+  {
+   "player": "Elie Tremblay",
+   "team": "PHÉNIX JSH MONTRÉAL-CENTRE",
+   "GP": 2,
+   "G": 0,
+   "A": 0,
+   "PIM": 2,
+   "PTS": 0
+  },
+  {
+   "player": "Emile Doucet",
+   "team": "HAWKS HRS",
+   "GP": 2,
+   "G": 0,
+   "A": 0,
+   "PIM": 2,
+   "PTS": 0
+  },
+  {
+   "player": "Frederic Prevost",
+   "team": "PATRIOTES BEAUHARNOIS / STE-MARTINE",
+   "GP": 2,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Félix Audy",
+   "team": "PATRIOTES BEAUHARNOIS / STE-MARTINE",
+   "GP": 2,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Gabriel Moreau",
+   "team": "MUSTANGS 2 VAUDREUIL-DORION",
+   "GP": 2,
+   "G": 0,
+   "A": 0,
+   "PIM": 2,
+   "PTS": 0
+  },
+  {
+   "player": "Guillaume Audet",
+   "team": "BRAVES VALLEYFIELD",
+   "GP": 2,
+   "G": 0,
+   "A": 0,
+   "PIM": 2,
+   "PTS": 0
+  },
+  {
+   "player": "Jacob Lach",
+   "team": "HAWKS HRS",
+   "GP": 2,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Jamie Mcbain",
+   "team": "ROYALS WEST-ISLAND",
+   "GP": 2,
+   "G": 0,
+   "A": 0,
+   "PIM": 4,
+   "PTS": 0
+  },
+  {
+   "player": "Jeremie Bigras",
+   "team": "HAWKS HRS",
+   "GP": 2,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Jesse Labar",
+   "team": "TIGERS LMHF",
+   "GP": 2,
+   "G": 0,
+   "A": 0,
+   "PIM": 2,
+   "PTS": 0
+  },
+  {
+   "player": "Jordan Walker",
+   "team": "HAWKS HRS",
+   "GP": 2,
+   "G": 0,
+   "A": 0,
+   "PIM": 2,
+   "PTS": 0
+  },
+  {
+   "player": "Julien Morais",
+   "team": "CHEVALIERS HMRPP",
+   "GP": 2,
+   "G": 0,
+   "A": 0,
+   "PIM": 2,
+   "PTS": 0
+  },
+  {
+   "player": "Justin Leroux",
+   "team": "HAWKS HRS",
+   "GP": 2,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Lawrence Stachlewski",
+   "team": "HAWKS HRS",
+   "GP": 2,
+   "G": 0,
+   "A": 0,
+   "PIM": 2,
+   "PTS": 0
+  },
+  {
+   "player": "Leo Barbeau",
+   "team": "PATRIOTES BEAUHARNOIS / STE-MARTINE",
+   "GP": 2,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Liam Sullivan",
+   "team": "TIGERS LMHF",
+   "GP": 2,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Louka Dorgere",
+   "team": "PHÉNIX JSH MONTRÉAL-CENTRE",
+   "GP": 2,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Ludovic Bertrand",
+   "team": "DEVILS M.R.O.",
+   "GP": 2,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Madox Gauvin",
+   "team": "BRAVES VALLEYFIELD",
+   "GP": 2,
+   "G": 0,
+   "A": 0,
+   "PIM": 4,
+   "PTS": 0
+  },
+  {
+   "player": "Marc-Antoine Dufresne",
+   "team": "HAWKS HRS",
+   "GP": 2,
+   "G": 0,
+   "A": 0,
+   "PIM": 2,
+   "PTS": 0
+  },
+  {
+   "player": "Mathieu Audet",
+   "team": "BRAVES VALLEYFIELD",
+   "GP": 2,
+   "G": 0,
+   "A": 0,
+   "PIM": 2,
+   "PTS": 0
+  },
+  {
+   "player": "Matisse Ho-Lafleur",
+   "team": "DEVILS M.R.O.",
+   "GP": 2,
+   "G": 0,
+   "A": 0,
+   "PIM": 2,
+   "PTS": 0
+  },
+  {
+   "player": "Matteo Gonsalves",
+   "team": "BARONS PIERREFONDS",
+   "GP": 2,
+   "G": 0,
+   "A": 0,
+   "PIM": 2,
+   "PTS": 0
+  },
+  {
+   "player": "Michael Mezzacappa",
+   "team": "SPARTANS ST-LAURENT",
+   "GP": 2,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Miguel Gastan",
+   "team": "TIGERS LMHF",
+   "GP": 2,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Nathan Berniqué",
+   "team": "BRAVES VALLEYFIELD",
+   "GP": 2,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Nicolas Brunetti",
+   "team": "PANTHERS N.D.G.",
+   "GP": 2,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Olivier Marceau",
+   "team": "PANTHERS N.D.G.",
+   "GP": 2,
+   "G": 0,
+   "A": 0,
+   "PIM": 4,
+   "PTS": 0
+  },
+  {
+   "player": "Quincy Logan",
+   "team": "CIVICS DDO",
+   "GP": 2,
+   "G": 0,
+   "A": 0,
+   "PIM": 2,
+   "PTS": 0
+  },
+  {
+   "player": "Ryan Chu-Ouellette",
+   "team": "TIGERS LMHF",
+   "GP": 2,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Samuel Charron",
+   "team": "MUSTANGS 2 VAUDREUIL-DORION",
+   "GP": 2,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Samuel Simard",
+   "team": "HAWKS HRS",
+   "GP": 2,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Shan Ming James Ni",
+   "team": "PANTHERS N.D.G.",
+   "GP": 2,
+   "G": 0,
+   "A": 0,
+   "PIM": 2,
+   "PTS": 0
+  },
+  {
+   "player": "Simon Goyette",
+   "team": "BARONS PIERREFONDS",
+   "GP": 2,
+   "G": 0,
+   "A": 0,
+   "PIM": 2,
+   "PTS": 0
+  },
+  {
+   "player": "Tommy Séguin",
+   "team": "BRAVES VALLEYFIELD",
+   "GP": 2,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Tristan Roy",
+   "team": "HAWKS HRS",
+   "GP": 2,
+   "G": 0,
+   "A": 0,
+   "PIM": 2,
+   "PTS": 0
+  },
+  {
+   "player": "William Boyer-Byrne",
+   "team": "ROYALS WEST-ISLAND",
+   "GP": 2,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "William Lacroix",
+   "team": "BRAVES VALLEYFIELD",
+   "GP": 2,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Élouan Lancelot",
+   "team": "ROYALS WEST-ISLAND",
+   "GP": 2,
+   "G": 0,
+   "A": 0,
+   "PIM": 2,
+   "PTS": 0
+  },
+  {
+   "player": "Étienne Cantone",
+   "team": "DEVILS M.R.O.",
+   "GP": 2,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Arturo Hall",
+   "team": "PHÉNIX JSH MONTRÉAL-CENTRE",
+   "GP": 3,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Benjamin Pouliot",
+   "team": "BRAVES DU NORD",
+   "GP": 3,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Ethan Kravitz",
+   "team": "CIVICS DDO",
+   "GP": 3,
+   "G": 0,
+   "A": 0,
+   "PIM": 2,
+   "PTS": 0
+  },
+  {
+   "player": "Frederic Martel-Boulanger",
+   "team": "ETOILES EST MONTREAL",
+   "GP": 3,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Gregory Kalfopoulos",
+   "team": "BRAVES DU NORD",
+   "GP": 3,
+   "G": 0,
+   "A": 0,
+   "PIM": 2,
+   "PTS": 0
+  },
+  {
+   "player": "Jaya Perron-Thibodeau",
+   "team": "MUSTANGS 2 VAUDREUIL-DORION",
+   "GP": 3,
+   "G": 0,
+   "A": 0,
+   "PIM": 2,
+   "PTS": 0
+  },
+  {
+   "player": "Jean-Simon Lavallée",
+   "team": "ETOILES EST MONTREAL",
+   "GP": 3,
+   "G": 0,
+   "A": 0,
+   "PIM": 4,
+   "PTS": 0
+  },
+  {
+   "player": "Jonathan Armstrong-Giroux",
+   "team": "PHÉNIX JSH MONTRÉAL-CENTRE",
+   "GP": 3,
+   "G": 0,
+   "A": 0,
+   "PIM": 4,
+   "PTS": 0
+  },
+  {
+   "player": "Joshua Killen",
+   "team": "MUSTANGS 2 VAUDREUIL-DORION",
+   "GP": 3,
+   "G": 0,
+   "A": 0,
+   "PIM": 2,
+   "PTS": 0
+  },
+  {
+   "player": "Justin Payette",
+   "team": "BRAVES DU NORD",
+   "GP": 3,
+   "G": 0,
+   "A": 0,
+   "PIM": 2,
+   "PTS": 0
+  },
+  {
+   "player": "Lucas Apter",
+   "team": "MUSTANGS 2 VAUDREUIL-DORION",
+   "GP": 3,
+   "G": 0,
+   "A": 0,
+   "PIM": 4,
+   "PTS": 0
+  },
+  {
+   "player": "Lucas Latraverse",
+   "team": "ETOILES EST MONTREAL",
+   "GP": 3,
+   "G": 0,
+   "A": 0,
+   "PIM": 6,
+   "PTS": 0
+  },
+  {
+   "player": "Mathieu Cousineau",
+   "team": "LIONS LASALLE",
+   "GP": 3,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Mathieu Tessier",
+   "team": "ETOILES EST MONTREAL",
+   "GP": 3,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Nikita Lungu",
+   "team": "DEVILS M.R.O.",
+   "GP": 3,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Reno Cariglia",
+   "team": "LIONS LASALLE",
+   "GP": 3,
+   "G": 0,
+   "A": 0,
+   "PIM": 2,
+   "PTS": 0
+  },
+  {
+   "player": "Sohair Al-Ramli",
+   "team": "CIVICS DDO",
+   "GP": 3,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Vasilios Sachlas",
+   "team": "DEVILS M.R.O.",
+   "GP": 3,
+   "G": 0,
+   "A": 0,
+   "PIM": 2,
+   "PTS": 0
+  },
+  {
+   "player": "Vincent Guerriero",
+   "team": "CIVICS DDO",
+   "GP": 3,
+   "G": 0,
+   "A": 0,
+   "PIM": 6,
+   "PTS": 0
+  },
+  {
+   "player": "Zachary Plessis Belair",
+   "team": "BRAVES DU NORD",
+   "GP": 3,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Zachary Richard-Desforges",
+   "team": "MUSTANGS 2 VAUDREUIL-DORION",
+   "GP": 3,
+   "G": 0,
+   "A": 0,
+   "PIM": 4,
+   "PTS": 0
+  },
+  {
+   "player": "Justin Fournier",
+   "team": "SPARTANS ST-LAURENT",
+   "GP": 4,
+   "G": 0,
+   "A": 0,
+   "PIM": 8,
+   "PTS": 0
+  },
+  {
+   "player": "Antonin Crevier",
+   "team": "**SPARTANS ST-LAURENT",
+   "GP": 20,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Arthur Lavigne",
+   "team": "**SPARTANS ST-LAURENT",
+   "GP": 20,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Daniel Giguère",
+   "team": "**SPARTANS ST-LAURENT",
+   "GP": 20,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Demetrius-James Morritt",
+   "team": "**SPARTANS ST-LAURENT",
+   "GP": 20,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Hugo Champagne",
+   "team": "**SPARTANS ST-LAURENT",
+   "GP": 20,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Jaryd Lariviere",
+   "team": "**SPARTANS ST-LAURENT",
+   "GP": 20,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Justin Dorais",
+   "team": "**SPARTANS ST-LAURENT",
+   "GP": 20,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Justin Fournier",
+   "team": "**SPARTANS ST-LAURENT",
+   "GP": 20,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Lambros Papadopoulos",
+   "team": "**SPARTANS ST-LAURENT",
+   "GP": 20,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Marcus Surette",
+   "team": "**SPARTANS ST-LAURENT",
+   "GP": 20,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Mathias Habre",
+   "team": "**SPARTANS ST-LAURENT",
+   "GP": 20,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Michael Mezzacappa",
+   "team": "**SPARTANS ST-LAURENT",
+   "GP": 20,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Pavi Ikwa Mbutiwi",
+   "team": "**SPARTANS ST-LAURENT",
+   "GP": 20,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Ryan Werbitt",
+   "team": "**SPARTANS ST-LAURENT",
+   "GP": 20,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Sebastian Filipescu",
+   "team": "**SPARTANS ST-LAURENT",
+   "GP": 20,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Simon Biard",
+   "team": "**SPARTANS ST-LAURENT",
+   "GP": 20,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Adrien Morisset",
+   "team": "**DEVILS M.R.O.",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Aguibou Diallo",
+   "team": "**PHÉNIX JSH MONTRÉAL-CENTRE",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Alexander Plagakis",
+   "team": "**MUSTANGS 2 VAUDREUIL-DORION",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Alexandre Forget-Therien",
+   "team": "**BRAVES DU NORD",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Alexandre Ohrvall-Beaudet",
+   "team": "**DEVILS M.R.O.",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Anastasios Nikolopoulos",
+   "team": "**BRAVES DU NORD",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Andrej Glisovic",
+   "team": "**BRAVES DU NORD",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Antoine Lellouche",
+   "team": "**DEVILS M.R.O.",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Antony Oustimenko",
+   "team": "**LIONS LASALLE",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Arsene Beauregard",
+   "team": "**CHEVALIERS HMRPP",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Arturo Hall",
+   "team": "**PHÉNIX JSH MONTRÉAL-CENTRE",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Baptiste Léveillée",
+   "team": "**ETOILES EST MONTREAL",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Benjamin Pouliot",
+   "team": "**BRAVES DU NORD",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Benjamin Senay",
+   "team": "**CHEVALIERS HMRPP",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Charles Fortier",
+   "team": "**DEVILS M.R.O.",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Charles Larochelle",
+   "team": "**DEVILS M.R.O.",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Charles-Eloi Therrien",
+   "team": "**MUSTANGS 2 VAUDREUIL-DORION",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Christopher Rossy",
+   "team": "**DEVILS M.R.O.",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Clement Payette",
+   "team": "**BRAVES DU NORD",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Cristian Cruz-Huard",
+   "team": "**ETOILES EST MONTREAL",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Damiano Di Perna",
+   "team": "**LIONS LASALLE",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "David Ritlop",
+   "team": "**DEVILS M.R.O.",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Denis Botnaru",
+   "team": "**ETOILES EST MONTREAL",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Domenico Struffolino",
+   "team": "**LIONS LASALLE",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Dylan Laframboise",
+   "team": "**ETOILES EST MONTREAL",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Edison Tran",
+   "team": "**CHEVALIERS HMRPP",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Elie Tremblay",
+   "team": "**PHÉNIX JSH MONTRÉAL-CENTRE",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Eliot Denault",
+   "team": "**CHEVALIERS HMRPP",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Emile Lafrance",
+   "team": "**ETOILES EST MONTREAL",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Etienne Lambert",
+   "team": "**CHEVALIERS HMRPP",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Frederic Martel-Boulanger",
+   "team": "**ETOILES EST MONTREAL",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Gaspard Provost",
+   "team": "**PHÉNIX JSH MONTRÉAL-CENTRE",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Giacomo Mazzuca",
+   "team": "**LIONS LASALLE",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Giuliano Arcoraci",
+   "team": "**LIONS LASALLE",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Gregory Kalfopoulos",
+   "team": "**BRAVES DU NORD",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Guillaume Vézina",
+   "team": "**ETOILES EST MONTREAL",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Henri Courtois",
+   "team": "**DEVILS M.R.O.",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Hussain Manzoor",
+   "team": "**PHÉNIX JSH MONTRÉAL-CENTRE",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Jacob Zilber",
+   "team": "**DEVILS M.R.O.",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Jaya Perron-Thibodeau",
+   "team": "**MUSTANGS 2 VAUDREUIL-DORION",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Jayden Landreville",
+   "team": "**MUSTANGS 2 VAUDREUIL-DORION",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Jean-Simon Lavallée",
+   "team": "**ETOILES EST MONTREAL",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Jemyson Mondésir-Castor",
+   "team": "**ETOILES EST MONTREAL",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Jonathan Armstrong-Giroux",
+   "team": "**PHÉNIX JSH MONTRÉAL-CENTRE",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Jonathan Cucci",
+   "team": "**BRAVES DU NORD",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Jonathan Tomarelli",
+   "team": "**LIONS LASALLE",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Joshua Killen",
+   "team": "**MUSTANGS 2 VAUDREUIL-DORION",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Julien Morais",
+   "team": "**CHEVALIERS HMRPP",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Justin Payette",
+   "team": "**BRAVES DU NORD",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Justin-Félix Leduc",
+   "team": "**DEVILS M.R.O.",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Liam Bruelemans",
+   "team": "**CHEVALIERS HMRPP",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Liam-Thomas Paquette",
+   "team": "**PHÉNIX JSH MONTRÉAL-CENTRE",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Logan Veltman",
+   "team": "**PHÉNIX JSH MONTRÉAL-CENTRE",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Louis Talarico-Leblanc",
+   "team": "**CHEVALIERS HMRPP",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Louis-Martin Archambault",
+   "team": "**BRAVES DU NORD",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Louka Dorgere",
+   "team": "**PHÉNIX JSH MONTRÉAL-CENTRE",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Lucas Apter",
+   "team": "**MUSTANGS 2 VAUDREUIL-DORION",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Lucas Latraverse",
+   "team": "**ETOILES EST MONTREAL",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Lucas Neill",
+   "team": "**LIONS LASALLE",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Ludovic Bertrand",
+   "team": "**DEVILS M.R.O.",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Léo-Paul Chapdelaine",
+   "team": "**CHEVALIERS HMRPP",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Magellan Hebert-Thibault",
+   "team": "**CHEVALIERS HMRPP",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Malik Nault",
+   "team": "**CHEVALIERS HMRPP",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Marco Falbo",
+   "team": "**LIONS LASALLE",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Massimo Di Santo",
+   "team": "**LIONS LASALLE",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Massimo Morganti",
+   "team": "**CHEVALIERS HMRPP",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Mateo Duque",
+   "team": "**BRAVES DU NORD",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Mathias Gervais",
+   "team": "**CHEVALIERS HMRPP",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Mathieu Cousineau",
+   "team": "**LIONS LASALLE",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Mathieu Tessier",
+   "team": "**ETOILES EST MONTREAL",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Mathis Lebeau",
+   "team": "**MUSTANGS 2 VAUDREUIL-DORION",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Matisse Ho-Lafleur",
+   "team": "**DEVILS M.R.O.",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Matteo Saltarelli",
+   "team": "**CHEVALIERS HMRPP",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Maxime Champagne",
+   "team": "**MUSTANGS 2 VAUDREUIL-DORION",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Mylan Morin",
+   "team": "**MUSTANGS 2 VAUDREUIL-DORION",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Nicholas Tsatas",
+   "team": "**DEVILS M.R.O.",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Nicolas Coculuzzi",
+   "team": "**CIVICS DDO",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Nikita Lungu",
+   "team": "**DEVILS M.R.O.",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Nils D'Hondt",
+   "team": "**DEVILS M.R.O.",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Noah Freitas",
+   "team": "**MUSTANGS 2 VAUDREUIL-DORION",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Noah Tyler Florio",
+   "team": "**LIONS LASALLE",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Olivier Ouellet",
+   "team": "**ETOILES EST MONTREAL",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Phoenix Mariasine",
+   "team": "**LIONS LASALLE",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Quinn Somers",
+   "team": "**LIONS LASALLE",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Rafael Cyr",
+   "team": "**CHEVALIERS HMRPP",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Raphael Gouin",
+   "team": "**ETOILES EST MONTREAL",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Raphael Gravel",
+   "team": "**LIONS LASALLE",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Reno Cariglia",
+   "team": "**LIONS LASALLE",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Samuel Armstrong-Giroux",
+   "team": "**PHÉNIX JSH MONTRÉAL-CENTRE",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Samuel Charron",
+   "team": "**MUSTANGS 2 VAUDREUIL-DORION",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Samuel Hebrais",
+   "team": "**BRAVES DU NORD",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Santino Sciotto",
+   "team": "**LIONS LASALLE",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Simon Lambert",
+   "team": "**CHEVALIERS HMRPP",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Stefano Lipari",
+   "team": "**LIONS LASALLE",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Tegan Foster",
+   "team": "**CHEVALIERS HMRPP",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Thierry Frechette",
+   "team": "**ETOILES EST MONTREAL",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Tristan Bradford",
+   "team": "**MUSTANGS 2 VAUDREUIL-DORION",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Vasilios Sachlas",
+   "team": "**DEVILS M.R.O.",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Victor Bouliane",
+   "team": "**MUSTANGS 2 VAUDREUIL-DORION",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Victor Poisson",
+   "team": "**DEVILS M.R.O.",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "William Ratelle",
+   "team": "**BRAVES DU NORD",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Xavier Choueiri",
+   "team": "**LIONS LASALLE",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Xavier Magloire",
+   "team": "**BRAVES DU NORD",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Zacharie Bouchard",
+   "team": "**MUSTANGS 2 VAUDREUIL-DORION",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Zachary Brochier",
+   "team": "**PHÉNIX JSH MONTRÉAL-CENTRE",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Zachary Plessis Belair",
+   "team": "**BRAVES DU NORD",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Zachary Rhéaume",
+   "team": "**BRAVES DU NORD",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Zachary Richard-Desforges",
+   "team": "**MUSTANGS 2 VAUDREUIL-DORION",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Étienne Cantone",
+   "team": "**DEVILS M.R.O.",
+   "GP": 21,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Aidan Frey",
+   "team": "**ROYALS WEST-ISLAND",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Alec Mitroi Banu",
+   "team": "**ROYALS WEST-ISLAND",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Alessandro Fragnito",
+   "team": "**BARONS PIERREFONDS",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Alexis Henry",
+   "team": "**HAWKS HRS",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Alexis Martineau",
+   "team": "**BARONS PIERREFONDS",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Andres Garcia",
+   "team": "**PANTHERS N.D.G.",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Andrew Feng",
+   "team": "**BARONS PIERREFONDS",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Anson Lawrence",
+   "team": "**PANTHERS N.D.G.",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Arnaud Lefebvre",
+   "team": "**BRAVES VALLEYFIELD",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Austin Jiang",
+   "team": "**TIGERS LMHF",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Bradley Mills",
+   "team": "**HAWKS HRS",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Branco Juverdianu",
+   "team": "**ROYALS WEST-ISLAND",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Caleb Caron",
+   "team": "**TIGERS LMHF",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Cameron David",
+   "team": "**BARONS PIERREFONDS",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Carl-Anthony Richer",
+   "team": "**PATRIOTES BEAUHARNOIS / STE-MARTINE",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Christopher Blom",
+   "team": "**BARONS PIERREFONDS",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Clement Gosselin",
+   "team": "**MUSTANGS 1 VAUDREUIL-DORION",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Connor Rosa Bernardins",
+   "team": "**BARONS PIERREFONDS",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Daniel Orlov",
+   "team": "**PANTHERS N.D.G.",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Daniel Silverman",
+   "team": "**TIGERS LMHF",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Davin Behamdouni",
+   "team": "**TIGERS LMHF",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Déreck Mcsween",
+   "team": "**BRAVES VALLEYFIELD",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Emile Desaulniers",
+   "team": "**PATRIOTES BEAUHARNOIS / STE-MARTINE",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Emile Doucet",
+   "team": "**HAWKS HRS",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Emile Piché",
+   "team": "**MUSTANGS 1 VAUDREUIL-DORION",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Emmerik Chaikowsky",
+   "team": "**MUSTANGS 1 VAUDREUIL-DORION",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Francis Daoust",
+   "team": "**MUSTANGS 1 VAUDREUIL-DORION",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Frederic Prevost",
+   "team": "**PATRIOTES BEAUHARNOIS / STE-MARTINE",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Félix Audy",
+   "team": "**PATRIOTES BEAUHARNOIS / STE-MARTINE",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Gabin Cornillaut",
+   "team": "**PANTHERS N.D.G.",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Gabriel Boyer",
+   "team": "**ROYALS WEST-ISLAND",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Grégory Leduc",
+   "team": "**BRAVES VALLEYFIELD",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Guillaume Audet",
+   "team": "**BRAVES VALLEYFIELD",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Ian Solomon-Baird",
+   "team": "**ROYALS WEST-ISLAND",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Jacob Lach",
+   "team": "**HAWKS HRS",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Jacob Silverman",
+   "team": "**TIGERS LMHF",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Jaden Dizazzo",
+   "team": "**MUSTANGS 1 VAUDREUIL-DORION",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "James Brogan-Provencher",
+   "team": "**ROYALS WEST-ISLAND",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "James Foltin",
+   "team": "**HAWKS HRS",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Jamie Mcbain",
+   "team": "**ROYALS WEST-ISLAND",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Jayden Hamm",
+   "team": "**TIGERS LMHF",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Jeremie Bigras",
+   "team": "**HAWKS HRS",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Jeremy Benoit",
+   "team": "**ROYALS WEST-ISLAND",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Jeremy Leclerc Ko",
+   "team": "**PANTHERS N.D.G.",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Jeremy Poirier",
+   "team": "**PANTHERS N.D.G.",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Jeremy Prevost",
+   "team": "**PATRIOTES BEAUHARNOIS / STE-MARTINE",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Jesse Labar",
+   "team": "**TIGERS LMHF",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Jimmer Jr. Madrona",
+   "team": "**BARONS PIERREFONDS",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "John Lopez",
+   "team": "**PANTHERS N.D.G.",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Jonah Wiseman",
+   "team": "**TIGERS LMHF",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Jordan Walker",
+   "team": "**HAWKS HRS",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Justin Lachance",
+   "team": "**PATRIOTES BEAUHARNOIS / STE-MARTINE",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Justin Leroux",
+   "team": "**HAWKS HRS",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Justin Poirier",
+   "team": "**BRAVES VALLEYFIELD",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Justin Séguin",
+   "team": "**MUSTANGS 1 VAUDREUIL-DORION",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Kevin Auerbach",
+   "team": "**BARONS PIERREFONDS",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Kyle Taylor",
+   "team": "**PANTHERS N.D.G.",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Lawrence Stachlewski",
+   "team": "**HAWKS HRS",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Leo Barbeau",
+   "team": "**PATRIOTES BEAUHARNOIS / STE-MARTINE",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Liam Sullivan",
+   "team": "**TIGERS LMHF",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Loic Bernard",
+   "team": "**BARONS PIERREFONDS",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Louis David Viau",
+   "team": "**PATRIOTES BEAUHARNOIS / STE-MARTINE",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Loîc Parent",
+   "team": "**BRAVES VALLEYFIELD",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Loïc Sylvestre",
+   "team": "**PATRIOTES BEAUHARNOIS / STE-MARTINE",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Luca Agostino",
+   "team": "**MUSTANGS 1 VAUDREUIL-DORION",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Luka D'Aoust",
+   "team": "**TIGERS LMHF",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Luka Ghantous",
+   "team": "**MUSTANGS 1 VAUDREUIL-DORION",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Madani Bordez",
+   "team": "**PANTHERS N.D.G.",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Madox Gauvin",
+   "team": "**BRAVES VALLEYFIELD",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Marc-Antoine Dufresne",
+   "team": "**HAWKS HRS",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Marc-Antoine Isabelle",
+   "team": "**PATRIOTES BEAUHARNOIS / STE-MARTINE",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Mathieu Audet",
+   "team": "**BRAVES VALLEYFIELD",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Mathys Richard",
+   "team": "**BRAVES VALLEYFIELD",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Matteo Gonsalves",
+   "team": "**BARONS PIERREFONDS",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Matthew Copeland",
+   "team": "**BARONS PIERREFONDS",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Matthew Filato",
+   "team": "**TIGERS LMHF",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Matthew Moscato",
+   "team": "**TIGERS LMHF",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Matthew Rousseau",
+   "team": "**BARONS PIERREFONDS",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Matthew Vallee",
+   "team": "**ROYALS WEST-ISLAND",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Maxim Gauthier",
+   "team": "**PANTHERS N.D.G.",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Michael Caluori",
+   "team": "**BARONS PIERREFONDS",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Michael Coppola",
+   "team": "**ROYALS WEST-ISLAND",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Mickael Roy",
+   "team": "**PATRIOTES BEAUHARNOIS / STE-MARTINE",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Miguel Gastan",
+   "team": "**TIGERS LMHF",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Miguel Trani",
+   "team": "**PANTHERS N.D.G.",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Mikael Joly",
+   "team": "**BARONS PIERREFONDS",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Nathan Berniqué",
+   "team": "**BRAVES VALLEYFIELD",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Nathan Hart",
+   "team": "**BRAVES VALLEYFIELD",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Nathan Lapierre",
+   "team": "**PATRIOTES BEAUHARNOIS / STE-MARTINE",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Nathan Viau",
+   "team": "**MUSTANGS 1 VAUDREUIL-DORION",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Nicholas De Filippo",
+   "team": "**HAWKS HRS",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Nicolas Brunetti",
+   "team": "**PANTHERS N.D.G.",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Nicolas Issa",
+   "team": "**BARONS PIERREFONDS",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Noah Bégin",
+   "team": "**MUSTANGS 1 VAUDREUIL-DORION",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Olivier Leroux",
+   "team": "**ROYALS WEST-ISLAND",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Olivier Marceau",
+   "team": "**PANTHERS N.D.G.",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Owen Bruemmer",
+   "team": "**PANTHERS N.D.G.",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Peter Li Pi Shan",
+   "team": "**PANTHERS N.D.G.",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Pierre-Alexis Pouliot",
+   "team": "**PATRIOTES BEAUHARNOIS / STE-MARTINE",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Raphael Matte",
+   "team": "**PATRIOTES BEAUHARNOIS / STE-MARTINE",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Ryan Allen",
+   "team": "**HAWKS HRS",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Ryan Chu-Ouellette",
+   "team": "**TIGERS LMHF",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Ryan Mignacco",
+   "team": "**ROYALS WEST-ISLAND",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Samuel Di Vincenzo",
+   "team": "**MUSTANGS 1 VAUDREUIL-DORION",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Samuel Lalonde",
+   "team": "**BRAVES VALLEYFIELD",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Samuel Lavigne",
+   "team": "**HAWKS HRS",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Samuel Simard",
+   "team": "**HAWKS HRS",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Sebastiano Vaccaro",
+   "team": "**BARONS PIERREFONDS",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Shan Ming James Ni",
+   "team": "**PANTHERS N.D.G.",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Shan Xiang Justin Ni",
+   "team": "**PANTHERS N.D.G.",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Simon Goyette",
+   "team": "**BARONS PIERREFONDS",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Simon Quesnel",
+   "team": "**MUSTANGS 1 VAUDREUIL-DORION",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Tommy Séguin",
+   "team": "**BRAVES VALLEYFIELD",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Tristan Jasmin",
+   "team": "**HAWKS HRS",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Tristan Pelletier",
+   "team": "**MUSTANGS 1 VAUDREUIL-DORION",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Tristan Roy",
+   "team": "**HAWKS HRS",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Victor Paun",
+   "team": "**TIGERS LMHF",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Vincent Carpentier",
+   "team": "**BRAVES VALLEYFIELD",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "William Boyer-Byrne",
+   "team": "**ROYALS WEST-ISLAND",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "William Dufresne",
+   "team": "**MUSTANGS 1 VAUDREUIL-DORION",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "William Janelle",
+   "team": "**ROYALS WEST-ISLAND",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "William Lacroix",
+   "team": "**BRAVES VALLEYFIELD",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Xavier Fontaine-Lalande",
+   "team": "**MUSTANGS 1 VAUDREUIL-DORION",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Yoan-Patrick Dufresne",
+   "team": "**PATRIOTES BEAUHARNOIS / STE-MARTINE",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Zachary Jackson",
+   "team": "**PATRIOTES BEAUHARNOIS / STE-MARTINE",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Zachary Lemieux",
+   "team": "**BRAVES VALLEYFIELD",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Élouan Lancelot",
+   "team": "**ROYALS WEST-ISLAND",
+   "GP": 22,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Adriano Bocchicchio",
+   "team": "**ÉLITES EST MONTRÉAL",
+   "GP": 23,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Alexis Gingras",
+   "team": "**ÉLITES EST MONTRÉAL",
+   "GP": 23,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Anthony Cabana",
+   "team": "**ÉLITES EST MONTRÉAL",
+   "GP": 23,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Antoine Parenteau",
+   "team": "**ÉLITES EST MONTRÉAL",
+   "GP": 23,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Dante Tempone",
+   "team": "**ÉLITES EST MONTRÉAL",
+   "GP": 23,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Davide Sciannamblo",
+   "team": "**ÉLITES EST MONTRÉAL",
+   "GP": 23,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Enrico Morante",
+   "team": "**ÉLITES EST MONTRÉAL",
+   "GP": 23,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Gianni Parillo",
+   "team": "**ÉLITES EST MONTRÉAL",
+   "GP": 23,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Giuseppe Paduano",
+   "team": "**ÉLITES EST MONTRÉAL",
+   "GP": 23,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Julian Porrello",
+   "team": "**COUGARS ST-LEONARD",
+   "GP": 23,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Lorenzo Falso",
+   "team": "**ÉLITES EST MONTRÉAL",
+   "GP": 23,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Max Bongiorno",
+   "team": "**ÉLITES EST MONTRÉAL",
+   "GP": 23,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Nicola Ragusa",
+   "team": "**ÉLITES EST MONTRÉAL",
+   "GP": 23,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Noah Caron",
+   "team": "**ÉLITES EST MONTRÉAL",
+   "GP": 23,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Samuel Moisan",
+   "team": "**ÉLITES EST MONTRÉAL",
+   "GP": 23,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  },
+  {
+   "player": "Steven Farruggia",
+   "team": "**ÉLITES EST MONTRÉAL",
+   "GP": 23,
+   "G": 0,
+   "A": 0,
+   "PIM": 0,
+   "PTS": 0
+  }
+ ]
+}
