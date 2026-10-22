@@ -2,11 +2,15 @@ name: Update stats
 
 on:
   schedule:
-    - cron: "17 9 * * *"     # every day ~5am Montreal time
-  workflow_dispatch:          # "Run workflow" button for manual updates
+    - cron: "17 5,17 * * *"   # ~1am and ~1pm Montreal time
+  workflow_dispatch:           # "Run workflow" button
 
 permissions:
   contents: write
+
+concurrency:
+  group: update-stats          # never run two updates at once
+  cancel-in-progress: false
 
 jobs:
   update:
@@ -18,10 +22,12 @@ jobs:
           python-version: "3.12"
       - run: pip install pypdf
       - run: python update.py
-      - name: Commit new sheets + site
+      - name: Commit new stats + site
         run: |
           git config user.name "stats-bot"
           git config user.email "stats-bot@users.noreply.github.com"
-          git add sheets data docs
-          git diff --cached --quiet || git commit -m "Update stats $(date -u +%F)"
+          git add data docs
+          git diff --cached --quiet && exit 0
+          git commit -m "Update stats $(date -u +%F)"
+          git pull --rebase -X theirs origin main
           git push
